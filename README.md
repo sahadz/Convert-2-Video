@@ -15,9 +15,9 @@ An Open Source Telegram RoBot  😍
 
 ## Our Telegram Channel and Group
 
-* [Dx Bots Updates](https://telegram.dog/Dx_Botz)
+* [superbotz Bots Updates](https://telegram.dog/super_botz)
 
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [Superbotz Group](https://telegram.dog/super_botz_support)
 
 
 ### [@BotFather](https://telegram.dog/BotFather) Commands
