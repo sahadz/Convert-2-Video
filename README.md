@@ -5,13 +5,13 @@ An Open Source Telegram RoBot  😍
 
 ### Special thanks
 
-* [@Spechide](https://telegram.dog/spechide)
+* [@Ankith_m](https://telegram.dog/Ankith_m)
 
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/venky533/Convert-2-Video/Venky533/README.md )
 
 ## Our Telegram Channel and Group
 
