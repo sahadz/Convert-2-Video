@@ -3,11 +3,11 @@ class Translation(object):
 This is a Telegram File convert Bot!
 You can convert any Telegram Document, using this bot! With custom thumbnail
 
-source code : <a href='https://github.com/sahadz/convert-2-video'>Click here</a>
+source code : <a href='https://github.com/venky533/Convert-2-Video'>Click here</a>
     
     © Channel : @super_botz
     © Group   : @super_botz_support
-    © Spechide: @Spechide
+    © @Ankith_m : @Ankith_m
     
     
     """
