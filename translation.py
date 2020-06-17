@@ -12,7 +12,7 @@ source code : <a href='https://github.com/sahadz/convert-2-video'>Click here</a>
     
     """
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "Use @FileconvertRobot 🥰"
+    UPGRADE_TEXT = "Use @Convertto_videobot 🥰"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (1.4G.B). Neverthless, trying to upload."
