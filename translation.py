@@ -1,7 +1,17 @@
 class Translation(object):
-    START_TEXT = """Hello,
-This is a Telegram File convert Bot!
-You can convert any Telegram Document, using this bot! With custom thumbnail
+    START_TEXT = A simple Converter BOT to convert your files 🤓,
+
+Send Me Any Telegram File/video and Reply To That With desired command.
+
+Click help for more details!
+
+You must subscribe our channel in order to use me😇
+
+Maintained By: The Boss 👨‍💻
+
+CREATOR🤵(buttonurl:https://t.me/Deadlytriggered)
+
+[🎬 𝗔𝗡𝗗𝗛𝗔𝗚𝗛𝗔𝗔𝗥𝗔𝗠 𝗠𝗢𝗩𝗜𝗘 🎬](buttonurl:https://t.me/Andhaghaaram
      
     """
     ABS_TEXT = " Please don't be selfish."
@@ -24,18 +34,29 @@ You can convert any Telegram Document, using this bot! With custom thumbnail
 Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/InFoTelGroup/174'>{}</a>
 Expires on: {}"""
-    HELP_USER = """I can do:
-👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
---------
+    HELP_USER = Happy to help! ❤️ ...
 
-🔥 How to deploy : <a href='https://youtu.be/zQamSjXBpJU'>Click here</a>
+Follow These steps..
 
-    © Group   : @InfotelGroup
-    © Channel : @DX_BotZ 
-    © credits : @Spechide
+🌀 Send me a thumbnail if required. It'll be saved permanently.💯
 
-Send /me to know current plan details
+🌀 If thumbnail is not send, It'll be auto generated from the file.(for file to video convertion)🥳
 
-"""
+🌀 Send me any Telegram File or Video.
+
+🌀 Reply to that message with ;
+
+    👉🏻 /converttovideo for file to video conversion
+
+  
+
+🌀 If you need custom name for converted file/video, give command as;
+
+    👉🏻 /converttovideo newname.extension
+
+    
+
+eg : /converttovideo newname.mkv
+    HELP_USER = 
 
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
