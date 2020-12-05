@@ -1,11 +1,11 @@
-## [Anydl Robot](https://telegram.dog/Anydl)
+## [kikaniyashbot](https://telegram.dog/kikaniyashbot)
 ---
 
 An Open Source Telegram RoBot  😍
 
 ### Special thanks
 
-* [@Spechide](https://telegram.dog/spechide)
+* [@kikaniyash](https://telegram.dog/kikaniyash)
 
 ### Installation
 
@@ -15,9 +15,9 @@ An Open Source Telegram RoBot  😍
 
 ## Our Telegram Channel and Group
 
-* [Dx Bots Updates](https://telegram.dog/Dx_Botz)
+* [Dx Official Channel](https://telegram.dog/kikaniyash)
 
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [Official Group](https://telegram.dog/kikaniyashGroup)
 
 
 ### [@BotFather](https://telegram.dog/BotFather) Commands
